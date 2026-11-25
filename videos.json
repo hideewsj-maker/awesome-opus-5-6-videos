@@ -13,6 +13,17 @@
     ]
   },
   {
+    "id": "2125331978891461023",
+    "url": "https://x.com/chetaslua/status/2125331978891461023",
+    "maker": "chetaslua",
+    "category": "film",
+    "seconds": 114,
+    "postedAt": "2026-11-24",
+    "title": "A two-minute anime short, song and all, written in code",
+    "titleZh": "两分钟的动画短片，连主题曲都是代码写的",
+    "tools": []
+  },
+  {
     "id": "2125226204764733481",
     "url": "https://x.com/chetaslua/status/2125226204764733481",
     "maker": "chetaslua",
@@ -24,15 +35,17 @@
     "tools": []
   },
   {
-    "id": "2125331978891461023",
-    "url": "https://x.com/chetaslua/status/2125331978891461023",
-    "maker": "chetaslua",
+    "id": "2125403314221142191",
+    "url": "https://x.com/LeeLinAI123/status/2125403314221142191",
+    "maker": "LeeLinAI123",
     "category": "film",
-    "seconds": 114,
-    "postedAt": "2026-11-24",
-    "title": "A two-minute anime short, song and all, written in code",
-    "titleZh": "两分钟的动画短片，连主题曲都是代码写的",
-    "tools": []
+    "seconds": 60,
+    "postedAt": "2026-11-25",
+    "title": "The Last Star: a little robot at an observatory, every frame drawn in Python",
+    "titleZh": "《The Last Star》：天文台的小机器人，每一帧都用 Python 画出",
+    "tools": [
+      "Python"
+    ]
   },
   {
     "id": "2125288009990103316",
@@ -57,51 +70,14 @@
     "tools": []
   },
   {
-    "id": "2125285225769164985",
-    "url": "https://x.com/RezAIT00/status/2125285225769164985",
-    "maker": "RezAIT00",
+    "id": "2125590864043082001",
+    "url": "https://x.com/chetaslua/status/2125590864043082001",
+    "maker": "chetaslua",
     "category": "film",
-    "seconds": 20,
-    "postedAt": "2026-11-24",
-    "title": "A watchmaker's town hidden inside a pocket watch",
-    "titleZh": "藏在怀表里的钟表匠小镇",
-    "tools": []
-  },
-  {
-    "id": "2125368341002924390",
-    "url": "https://x.com/RezAIT00/status/2125368341002924390",
-    "maker": "RezAIT00",
-    "category": "scene3d",
-    "seconds": 71,
-    "postedAt": "2026-11-24",
-    "title": "Dead Swell: a first-person shooter on a stormy sea platform, in three.js",
-    "titleZh": "Dead Swell：暴风雨海上平台的第一人称射击游戏，three.js 实现",
-    "tools": [
-      "Three.js"
-    ]
-  },
-  {
-    "id": "2125403314221142191",
-    "url": "https://x.com/LeeLinAI123/status/2125403314221142191",
-    "maker": "LeeLinAI123",
-    "category": "film",
-    "seconds": 60,
+    "seconds": 106,
     "postedAt": "2026-11-25",
-    "title": "The Last Star: a little robot at an observatory, every frame drawn in Python",
-    "titleZh": "《The Last Star》：天文台的小机器人，每一帧都用 Python 画出",
-    "tools": [
-      "Python"
-    ]
-  },
-  {
-    "id": "2125222399809409109",
-    "url": "https://x.com/Mr_Salio/status/2125222399809409109",
-    "maker": "Mr_Salio",
-    "category": "scene3d",
-    "seconds": 28,
-    "postedAt": "2026-11-24",
-    "title": "The Glacier Maw: the trailer of a tower defense game built from a 20-word prompt",
-    "titleZh": "《The Glacier Maw》：用 20 个词的提示词做出的塔防游戏及其预告片",
+    "title": "An anime battle short with its own song, all in code",
+    "titleZh": "自带主题曲的动漫战斗短片，全部用代码写成",
     "tools": []
   },
   {
@@ -118,14 +94,27 @@
     ]
   },
   {
-    "id": "2125250592243155013",
-    "url": "https://x.com/lemomo_ai/status/2125250592243155013",
-    "maker": "lemomo_ai",
+    "id": "2125368341002924390",
+    "url": "https://x.com/RezAIT00/status/2125368341002924390",
+    "maker": "RezAIT00",
     "category": "scene3d",
-    "seconds": 54,
+    "seconds": 71,
     "postedAt": "2026-11-24",
-    "title": "A brass calligraphy machine writing Chinese characters, in one shot",
-    "titleZh": "一次生成：黄铜书法机器一笔一画写出汉字",
+    "title": "Dead Swell: a first-person shooter on a stormy sea platform, in three.js",
+    "titleZh": "Dead Swell：暴风雨海上平台的第一人称射击游戏，three.js 实现",
+    "tools": [
+      "Three.js"
+    ]
+  },
+  {
+    "id": "2125285225769164985",
+    "url": "https://x.com/RezAIT00/status/2125285225769164985",
+    "maker": "RezAIT00",
+    "category": "film",
+    "seconds": 20,
+    "postedAt": "2026-11-24",
+    "title": "A watchmaker's town hidden inside a pocket watch",
+    "titleZh": "藏在怀表里的钟表匠小镇",
     "tools": []
   },
   {
@@ -140,6 +129,61 @@
     "tools": []
   },
   {
+    "id": "2125578816529805529",
+    "url": "https://x.com/pankajkumar_dev/status/2125578816529805529",
+    "maker": "pankajkumar_dev",
+    "category": "film",
+    "seconds": 65,
+    "postedAt": "2026-11-25",
+    "title": "Editing reality: a city reshaped by a cursor, in seamless shots",
+    "titleZh": "编辑现实：一只光标改写整座城市，镜头无缝衔接",
+    "tools": []
+  },
+  {
+    "id": "2125517704031621562",
+    "url": "https://x.com/notjazii/status/2125517704031621562",
+    "maker": "notjazii",
+    "category": "music",
+    "seconds": 160,
+    "postedAt": "2026-11-25",
+    "title": "A watercolor music film of 'Danny Boy', song and picture in code",
+    "titleZh": "水彩风《Danny Boy》音乐短片，歌和画面都是代码",
+    "tools": []
+  },
+  {
+    "id": "2125222399809409109",
+    "url": "https://x.com/Mr_Salio/status/2125222399809409109",
+    "maker": "Mr_Salio",
+    "category": "scene3d",
+    "seconds": 28,
+    "postedAt": "2026-11-24",
+    "title": "The Glacier Maw: the trailer of a tower defense game built from a 20-word prompt",
+    "titleZh": "《The Glacier Maw》：用 20 个词的提示词做出的塔防游戏及其预告片",
+    "tools": []
+  },
+  {
+    "id": "2125584762710466881",
+    "url": "https://x.com/RezAIT00/status/2125584762710466881",
+    "maker": "RezAIT00",
+    "category": "scene3d",
+    "seconds": 66,
+    "postedAt": "2026-11-25",
+    "title": "A giant creature storms a living city, water and all, in one shot",
+    "titleZh": "一次生成：巨兽冲进热闹的城市，连水花都在动",
+    "tools": []
+  },
+  {
+    "id": "2125250592243155013",
+    "url": "https://x.com/lemomo_ai/status/2125250592243155013",
+    "maker": "lemomo_ai",
+    "category": "scene3d",
+    "seconds": 54,
+    "postedAt": "2026-11-24",
+    "title": "A brass calligraphy machine writing Chinese characters, in one shot",
+    "titleZh": "一次生成：黄铜书法机器一笔一画写出汉字",
+    "tools": []
+  },
+  {
     "id": "2125430728305369324",
     "url": "https://x.com/RezAIT00/status/2125430728305369324",
     "maker": "RezAIT00",
@@ -151,5 +195,16 @@
     "tools": [
       "Devin"
     ]
+  },
+  {
+    "id": "2125625555328405599",
+    "url": "https://x.com/RezAIT00/status/2125625555328405599",
+    "maker": "RezAIT00",
+    "category": "film",
+    "seconds": 22,
+    "postedAt": "2026-11-25",
+    "title": "An animated webtoon: a girl with a lantern faces a city-sized beast",
+    "titleZh": "会动的条漫：提灯女孩直面城市般巨大的怪兽",
+    "tools": []
   }
 ]
