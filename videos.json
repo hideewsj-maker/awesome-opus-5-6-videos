@@ -1,0 +1,155 @@
+[
+  {
+    "id": "2125253343480275008",
+    "url": "https://x.com/chetaslua/status/2125253343480275008",
+    "maker": "chetaslua",
+    "category": "film",
+    "seconds": 82,
+    "postedAt": "2026-11-24",
+    "title": "A pelican rides through a festival market and up into a lantern sky",
+    "titleZh": "鹈鹕穿过热闹的集市，一路飞进满天孔明灯",
+    "tools": [
+      "Three.js"
+    ]
+  },
+  {
+    "id": "2125226204764733481",
+    "url": "https://x.com/chetaslua/status/2125226204764733481",
+    "maker": "chetaslua",
+    "category": "film",
+    "seconds": 62,
+    "postedAt": "2026-11-24",
+    "title": "A fox in a library draws a bird that flies off the page",
+    "titleZh": "图书馆里的狐狸画出一只鸟，鸟从纸上飞了出去",
+    "tools": []
+  },
+  {
+    "id": "2125331978891461023",
+    "url": "https://x.com/chetaslua/status/2125331978891461023",
+    "maker": "chetaslua",
+    "category": "film",
+    "seconds": 114,
+    "postedAt": "2026-11-24",
+    "title": "A two-minute anime short, song and all, written in code",
+    "titleZh": "两分钟的动画短片，连主题曲都是代码写的",
+    "tools": []
+  },
+  {
+    "id": "2125288009990103316",
+    "url": "https://x.com/chetaslua/status/2125288009990103316",
+    "maker": "chetaslua",
+    "category": "film",
+    "seconds": 152,
+    "postedAt": "2026-11-24",
+    "title": "A painted short set to 'Danny Boy', the singing made in code too",
+    "titleZh": "配《Danny Boy》的手绘风短片，连歌声也是代码生成的",
+    "tools": []
+  },
+  {
+    "id": "2125235869716287677",
+    "url": "https://x.com/notjazii/status/2125235869716287677",
+    "maker": "notjazii",
+    "category": "scene3d",
+    "seconds": 72,
+    "postedAt": "2026-11-24",
+    "title": "A pelican cycling along a seaside promenade, in several shots",
+    "titleZh": "鹈鹕沿着海滨步道骑车，多个镜头切换",
+    "tools": []
+  },
+  {
+    "id": "2125285225769164985",
+    "url": "https://x.com/RezAIT00/status/2125285225769164985",
+    "maker": "RezAIT00",
+    "category": "film",
+    "seconds": 20,
+    "postedAt": "2026-11-24",
+    "title": "A watchmaker's town hidden inside a pocket watch",
+    "titleZh": "藏在怀表里的钟表匠小镇",
+    "tools": []
+  },
+  {
+    "id": "2125368341002924390",
+    "url": "https://x.com/RezAIT00/status/2125368341002924390",
+    "maker": "RezAIT00",
+    "category": "scene3d",
+    "seconds": 71,
+    "postedAt": "2026-11-24",
+    "title": "Dead Swell: a first-person shooter on a stormy sea platform, in three.js",
+    "titleZh": "Dead Swell：暴风雨海上平台的第一人称射击游戏，three.js 实现",
+    "tools": [
+      "Three.js"
+    ]
+  },
+  {
+    "id": "2125403314221142191",
+    "url": "https://x.com/LeeLinAI123/status/2125403314221142191",
+    "maker": "LeeLinAI123",
+    "category": "film",
+    "seconds": 60,
+    "postedAt": "2026-11-25",
+    "title": "The Last Star: a little robot at an observatory, every frame drawn in Python",
+    "titleZh": "《The Last Star》：天文台的小机器人，每一帧都用 Python 画出",
+    "tools": [
+      "Python"
+    ]
+  },
+  {
+    "id": "2125222399809409109",
+    "url": "https://x.com/Mr_Salio/status/2125222399809409109",
+    "maker": "Mr_Salio",
+    "category": "scene3d",
+    "seconds": 28,
+    "postedAt": "2026-11-24",
+    "title": "The Glacier Maw: the trailer of a tower defense game built from a 20-word prompt",
+    "titleZh": "《The Glacier Maw》：用 20 个词的提示词做出的塔防游戏及其预告片",
+    "tools": []
+  },
+  {
+    "id": "2125334916305231885",
+    "url": "https://x.com/anstapnever/status/2125334916305231885",
+    "maker": "anstapnever",
+    "category": "film",
+    "seconds": 78,
+    "postedAt": "2026-11-24",
+    "title": "A 78-second anime fight, a capybara against a warlord, built by six agent teams",
+    "titleZh": "78 秒动画打斗：水豚对战军阀，六组智能体并行完成",
+    "tools": [
+      "Three.js"
+    ]
+  },
+  {
+    "id": "2125250592243155013",
+    "url": "https://x.com/lemomo_ai/status/2125250592243155013",
+    "maker": "lemomo_ai",
+    "category": "scene3d",
+    "seconds": 54,
+    "postedAt": "2026-11-24",
+    "title": "A brass calligraphy machine writing Chinese characters, in one shot",
+    "titleZh": "一次生成：黄铜书法机器一笔一画写出汉字",
+    "tools": []
+  },
+  {
+    "id": "2125345032697999523",
+    "url": "https://x.com/ishuagra02/status/2125345032697999523",
+    "maker": "ishuagra02",
+    "category": "motion",
+    "seconds": 153,
+    "postedAt": "2026-11-24",
+    "title": "Human cultures through history, as one moving painted tapestry",
+    "titleZh": "人类各时代的文化，化作一幅流动的手绘长卷",
+    "tools": []
+  },
+  {
+    "id": "2125430728305369324",
+    "url": "https://x.com/RezAIT00/status/2125430728305369324",
+    "maker": "RezAIT00",
+    "category": "compare",
+    "seconds": 12,
+    "postedAt": "2026-11-25",
+    "title": "A floating island of China, one shot: the newer model vs Fable 5.2 vs Opus 5.5",
+    "titleZh": "一次生成的中国浮岛：新模型 vs Fable 5.2 vs Opus 5.5",
+    "tools": [
+      "Devin"
+    ]
+  }
+]
